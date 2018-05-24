@@ -1,0 +1,12 @@
+{
+  "name": "citest",
+  "version": "1.0.0",
+  "main": "coding.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
